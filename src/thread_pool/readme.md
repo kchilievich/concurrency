@@ -1,0 +1,1 @@
+Implementation of a simple thread pool that can be used for fibers after further modification. Currently has some potential issues, but serves the sole purpose of a better understanding of the thread pool and its synchronization primitives
